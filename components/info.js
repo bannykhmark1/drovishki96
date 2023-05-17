@@ -7,7 +7,7 @@ export default function Info() {
         <div className="flex justify-between mx-20 my-12">
           <div className="w-1/2 mb-7">
             <h1 className="font-bold text-4xl mb-16">/ О нашем производстве</h1>
-            <span className=" ">
+            <span className=" text-lg">
               Если вам нужно выбрать и недорого купить строительные материалы из
               древесины, наша пилорама предложит большой ассортимент. Здесь
               жители ленобласти смогут приобрести с доставкой пиломатериал

@@ -4,8 +4,8 @@ export default function Drovishki() {
   return (
     <>
       <div className="text-orange-100 bg-firewood ">
-        <div className="backdrop-blur-xs flex flex-col justify-center items-center">
-          <div className="text-5xl font-extrabold pb-20 pt-12 ">
+        <div className="backdrop-blur-xs flex flex-col justify-center self-center items-center">
+          <div className="text-5xl font-extrabold pb-16 pt-24 ">
             Drovishki96
           </div>
           <div>
