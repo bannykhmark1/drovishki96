@@ -89,7 +89,10 @@ export default function Catalog() {
         </div>
         <div className="flex justify-between flex-wrap">
           {products.map((el) => (
-            <div className="flex text-center flex-col py-4 mb-6 m-4 w-1/5">
+            <div
+              key={el.id}
+              className="flex text-center flex-col py-4 mb-6 m-4 w-1/5"
+            >
               <div>
                 <div className="flex justify-center self-center items-center ">
                   <Image src={el.image} width={400} height={300} />
