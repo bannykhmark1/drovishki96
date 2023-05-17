@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Header from "@/components/header";
-import Firewood from "@/components/firewood";
 import Footer from "@/components/footer";
 import Drovishki from "@/components/drovishki";
 import Info from "@/components/info";
